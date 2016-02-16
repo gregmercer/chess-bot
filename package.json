@@ -1,0 +1,16 @@
+{
+  "name": "chess_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chess_bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "0.0.5",
+    "fs": "0.0.2",
+    "path": "^0.12.7"
+  }
+}
